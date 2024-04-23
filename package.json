@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "mongodb": "^6.5.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
